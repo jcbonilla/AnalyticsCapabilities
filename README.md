@@ -8,4 +8,5 @@ This repository contains a list of [Topic models for analytics projects] course 
 ### Overview
 Below is a list of the topic model interative visualizations for my research.
 ###List
-Top Models for [2013] (http://bl.ocks.org/jcbonilla/raw/12da17d4b528748b927ff0a7376fba9a/) 
+Top Models for [2013] (http://bl.ocks.org/jcbonilla/raw/12da17d4b528748b927ff0a7376fba9a/)
+Top Models for [2014] (http://bl.ocks.org/jcbonilla/raw/47298701e76eb2d62fa1b2e11a259dc8//)
