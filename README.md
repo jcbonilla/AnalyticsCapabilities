@@ -1,6 +1,6 @@
 # AnalyticsCapabilities #
 
-[JeanCarlo Bonilla](bb3379@nyu.edu) (Labs), New York University, Department of Technology Management  
+[JeanCarlo Bonilla](bb3379@nyu.edu), New York University, Department of Technology Management  
 
 This repository contains a list of [Topic models for analytics projects] course as part of my PhD Research
 
