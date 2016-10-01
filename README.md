@@ -9,6 +9,7 @@ This repository contains a list of [Topic models for analytics projects] course 
 Below is a list of the topic model interative visualizations for my research.
 
 ###List of available tools by year:
+DEMO (https://cdn.rawgit.com/jcbonilla/AnalyticsCapabilities/master/CUSP/index.html)
 
 Top Models for [2010] (https://cdn.rawgit.com/jcbonilla/AnalyticsCapabilities/master/viz2010/index.html)
 
