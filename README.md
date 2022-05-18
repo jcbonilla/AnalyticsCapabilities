@@ -2,7 +2,7 @@
 
 [JeanCarlo Bonilla](bb3379@nyu.edu), New York University, Department of Technology Management  
 
-This repository contains a list of [Topic models for analytics projects] course as part of my PhD Research
+This repository contains a list of [Topic models for analytics projects] course as part of my NLP research
 
 
 ### Overview
